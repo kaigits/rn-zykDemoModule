@@ -1,19 +1,19 @@
 {
-  "name": "rn-zykdemomodule",
-  "version": "1.0.0",
-  "description": "test",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "author" : "zyk",
+  "bugs" : {
+    "url" : "https://github.com/kaigits/rn-zykDemoModule/issues"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/kaigits/rn-zykDemoModule.git"
+  "description" : "test",
+  "homepage" : "https://github.com/kaigits/rn-zykDemoModule#readme",
+  "license" : "ISC",
+  "main" : "index.js",
+  "name" : "rn-zykdemomodule",
+  "repository" : {
+    "type" : "git",
+    "url" : "git+https://github.com/kaigits/rn-zykDemoModule.git"
   },
-  "author": "zyk",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/kaigits/rn-zykDemoModule/issues"
+  "scripts" : {
+    "test" : "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://github.com/kaigits/rn-zykDemoModule#readme"
+  "version" : "1.0.0"
 }
